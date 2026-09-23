@@ -1,2 +1,2 @@
-# OrienDiffusion
-The code will be open-sourced upon the official acceptance of the paper.
+# OrienDiffusion: Taming Diffusion Towards Fine-grained Portrait Matting
+
